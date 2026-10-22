@@ -353,3 +353,10 @@ footer{background:#593d46;color:#fff5ef}.footer-main h4{color:#efc7c6}.footer-ma
   .founder-picks .product-card-scent { min-height: 32px; font-size: 11px; }
   .founder-picks .product-card > .add-button { padding: 10px 6px; }
 }
+
+/* Ritual collection photography as stylesheet URLs, not inline style attributes */
+.collection-tiles .ritual-image-1 { background-image: url("./assests/1.jpg"); }
+.collection-tiles .ritual-image-2 { background-image: url("./assests/2.jpg"); }
+.collection-tiles .ritual-image-3 { background-image: url("./assests/3.jpg"); }
+.collection-tiles .ritual-image-4 { background-image: url("./assests/4.jpg"); }
+.collection-tiles .ritual-image-5 { background-image: url("./assests/5.jpg"); }
